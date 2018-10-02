@@ -1,0 +1,8 @@
+C:\Users\user\documents\visual studio 2010\Projects\WebinarC#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\user\documents\visual studio 2010\Projects\WebinarC#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\user\documents\visual studio 2010\Projects\WebinarC#\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\user\documents\visual studio 2010\Projects\WebinarC#\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\WebinarC#\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\WebinarC#\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\user\documents\visual studio 2010\Projects\WebinarC#\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\WebinarC#\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
